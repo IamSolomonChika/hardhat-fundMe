@@ -1,0 +1,8 @@
+{
+  "extends": "solhint:recommended",
+  "plugins": [],
+  "rules": {
+    "avoid-suicide": ["error", "^0.8.0"],
+    "avoid-sha3": "warn"
+  }
+}
